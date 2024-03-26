@@ -97,6 +97,10 @@ article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 }
+article image {
+    float:right top bottom;
+	margin: .5em 0 1em 1em px1;
+}
 
 /* the styles for the aside */
 
