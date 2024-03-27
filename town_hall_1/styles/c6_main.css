@@ -101,7 +101,7 @@ article h3 {
 }
 article image {
     float:right;
-	margin: .5em 0 1em 1em;
+	margin: 10px 0 10px 10px
 }
 
 /* the styles for the aside */
