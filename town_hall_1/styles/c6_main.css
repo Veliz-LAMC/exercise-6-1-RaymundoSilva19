@@ -40,7 +40,7 @@ header h3 {
 	font-style: italic;
 }
 header img {
-	float: left;
+	float: right;
 	padding: 0 30px;
 }
 .shadow {
