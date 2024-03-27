@@ -134,3 +134,25 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+
+* CSS for the Speaker of the Month */
+.speaker {
+  clear: both;
+  margin-top: 20px;
+}
+
+.speaker h2 {
+  font-size: 130%;
+  color: #800000;
+  padding: 0.5em 0 0.25em 0;
+}
+
+.speaker img {
+  float: left;
+  margin-right: 20px;
+  border: 1px solid black;
+}
+
+.speaker p {
+  margin-bottom: 1em;
+}
