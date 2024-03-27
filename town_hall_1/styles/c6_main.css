@@ -51,11 +51,12 @@ main {
 	clear: right;
 }
 main {
-	padding: 0 30px;
+	padding: 0 
 }
 main h1 {
 	font-size: 150%;
-	padding: .3em 0;
+	padding-top: 0.5em 0;
+	padding-bottom: 0.25em 0;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
 }
