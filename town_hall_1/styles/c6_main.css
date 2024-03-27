@@ -14,6 +14,7 @@ body {
     border: 3px solid #931420;
     background-color: #fffded;
 }
+
 a:focus, a:hover {
 	font-style: italic;
 }
@@ -98,8 +99,8 @@ article h3 {
 	padding-bottom: .25em;
 }
 article image {
-    float:right top bottom;
-	margin: .5em 0 1em 1em px1;
+    float:right;
+	margin: .5em 0 1em 1em;
 }
 
 /* the styles for the aside */
@@ -117,7 +118,7 @@ footer {
 	background-color: #931420;
 }
 footer p {
-	text-align: center;
+	text-align: top;
 	color: white;
 	padding: 1em 0;
 }
