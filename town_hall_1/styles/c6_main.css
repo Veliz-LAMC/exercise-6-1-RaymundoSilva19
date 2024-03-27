@@ -138,7 +138,7 @@ footer p {
 * CSS for the Speaker of the Month */
 .speaker {
   clear: both;
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 .speaker h2 {
@@ -148,11 +148,11 @@ footer p {
 }
 
 .speaker img {
-  float: left;
-  margin-right: 20px;
+  float: right;
+  margin-right: 0;
   border: 1px solid black;
 }
 
 .speaker p {
-  margin-bottom: 1em;
+  margin-bottom: 0;
 }
